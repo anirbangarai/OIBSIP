@@ -18,8 +18,6 @@ The projects have been developed following a complete end-to-end data science wo
 
 **Intern:** Anirban Garai
 
-**Course:** M.Sc. Data Science
-
 ---
 
 # Repository Structure
