@@ -223,8 +223,6 @@ Through this project, the following concepts were explored:
 
 **Anirban Garai**
 
-M.Sc. Data Science
-
 GitHub Repository: **OIBSIP**
 
 ---
